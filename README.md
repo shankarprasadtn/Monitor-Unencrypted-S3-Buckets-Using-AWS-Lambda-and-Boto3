@@ -22,3 +22,9 @@ The Lambda function successfully identified unencrypted S3 buckets.
 
 ## Output
 Returns list of unencrypted buckets.
+
+assignment-3-s3-encryption-check/
+│
+├── lambda_function.py
+├── README.md
+└── screenshots/
