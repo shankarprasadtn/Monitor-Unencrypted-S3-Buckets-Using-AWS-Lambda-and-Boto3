@@ -41,6 +41,6 @@ Returns list of unencrypted buckets.
 5. Deployed and tested the function.
    <img width="1869" height="859" alt="Screenshot 2026-03-25 100238" src="https://github.com/user-attachments/assets/86973374-687c-42ea-9f8e-718bbbbe02f9" />
 
-6. Verified results in CloudWatch logs.
+6. Verified results in logs.
 
    <img width="1892" height="878" alt="Screenshot 2026-03-25 100251" src="https://github.com/user-attachments/assets/9f32103e-a8d2-4b1d-bf75-6f5cdf97e05e" />
