@@ -1,4 +1,4 @@
-# Assignment 3: Monitoring Unencrypted S3 Buckets
+# Monitoring Unencrypted S3 Buckets
 
 ## Objective
 Detect S3 buckets without server-side encryption using AWS Lambda and Boto3.
